@@ -1,0 +1,21 @@
+ cd documents
+
+ cd gitrepositories
+
+ mkdir test_repo
+
+ cd test_repo
+
+ git init
+
+ git status
+
+* Add file *
+
+ git add .
+
+ git commit -m "Adding new files to git repo"
+
+ git status
+
+ git checkout -b branch_1
