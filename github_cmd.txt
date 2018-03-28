@@ -1,6 +1,4 @@
- cd documents
-
- cd gitrepositories
+ cd documents/github/gitrepositories
 
  mkdir test_repo
 
